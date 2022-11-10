@@ -186,10 +186,10 @@ ii) D FLIP FLOP:
 ![output](./drtl.PNG)
 
 iii) JK FLIP FLOP:
-![output](./jkrtl.PNG)
+![output](./jkrlt.PNG)
 
 iv) T FLIP FLOP:
-![output](./trtl.PNG)
+![output](./trlt.PNG)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
